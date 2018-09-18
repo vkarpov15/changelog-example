@@ -6,6 +6,6 @@
     "standard-changelog": "2.0.1"
   },
   "scripts": {
-    "release": "standard-changelog && git commit -a -m 'chore: release `./node_modules/.bin/print-pkg-version`' && git tag `./node_modules/.bin/print-pkg-version` && git push origin master --tags"
+    "release": "standard-changelog && git commit -a -m \"chore: release `./node_modules/.bin/print-pkg-version`\" && git tag `./node_modules/.bin/print-pkg-version` && git push origin master --tags"
   }
 }

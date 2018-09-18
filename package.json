@@ -1,6 +1,6 @@
 {
   "name": "changelog-example",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "devDependencies": {
     "print-pkg-version": "0.2.1",
     "standard-changelog": "2.0.1"
